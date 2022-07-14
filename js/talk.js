@@ -1,4 +1,4 @@
-new TypeIt("#tqyxhj", {
+new TypeIt("#fzxyq", {
         loop: true,
         cursorSpeed: 1000,
         speed: 100
